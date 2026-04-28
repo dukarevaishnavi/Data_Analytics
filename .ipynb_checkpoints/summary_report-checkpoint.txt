@@ -1,0 +1,3 @@
+Total Transactions: 30
+Total Revenue: 6469.499999999998
+Average Order Value: 215.64999999999995
